@@ -1,0 +1,7 @@
+INDEX VERSION 1.122+C:\Users\USER\Desktop\workspaceeclipsejuno\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1575743374.index
+1914012389.index
+1737815460.index
+694110798.index
+3504643613.index
+3598029138.index
